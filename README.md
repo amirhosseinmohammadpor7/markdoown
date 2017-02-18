@@ -18,5 +18,5 @@ chmod +x launch.sh
 ./launch.sh.
 ```
 # Developers
-* [mute-team](https://t.me/Telee_Mute) - Channel
-* [@oOo_2017_oOo](https://t.me/oOo_2017_oOo) - amirhosein
+## 
+* [Amir ho3in](https://telegram.me/Amir_Ho3in051) -
